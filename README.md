@@ -1,4 +1,4 @@
-In this project, you will architect an Event Registration System in Java,
+In this project, you will architect an Event Registration System in c++,
 focusing on the core principles of Object-Oriented Programming (OOP).
 The system's primary objective is to streamline event management and
 attendee registration through a user-friendly console-based interface.
